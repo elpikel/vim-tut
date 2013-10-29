@@ -38,3 +38,13 @@ Jeżeli edytowaliśmy plik w tym miejscu dostaniemy wyjątek o niezapisanym plik
 ---------
 vimtutor
 ---------
+
+Podstawy poruszania się po tekście:
+
+h,j,k,l - zamiast strzałek
+crtl-[b/f] - poprzednia/następna strona
+b/w - poprzednie następne słowo
+$ - koniec lini
+0 - początek lini
+^ - pierwsza litera w lini
+

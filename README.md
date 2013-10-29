@@ -72,6 +72,8 @@ ctrl-v - tryb wizualny blokowy
 Przykłady:
 daw - usuwa wyraz
 di( - usuwa wewnatrz (
+dt, - usuwa do znaku ,
+df, - usuwa ze znakiem ,
 
 
 ---------

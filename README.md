@@ -13,6 +13,9 @@ Vim is often called a "programmer's editor," and so useful for programming that 
 
 Działa na większości systemów operacyjnych: Windows, OSX, Unix.
 
+Po co mi vim?
+
+Jest bardzo wydajny nie ze względu na szybkość działania ale ze względu na interfejs który oferuje. Vim zapewnia ogromny wachlarz przydatnych narzędzi do edycji tekstu o czym większośc współczenych ide zapomniało. Czym lepiej nauczysz się tych narzędzi tym szybciej będziesz w stanie wykonać swoje zadanie - czym szybciej uda ci sie wykonać zadanie tym więcej wolego czasu będziesz miał? 
 
 
 1. Modes

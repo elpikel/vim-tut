@@ -69,6 +69,11 @@ v - tryb wizualny znakowy
 V - tryb wizualny liniowy
 ctrl-v - tryb wizualny blokowy
 
+Przykłady:
+daw - usuwa wyraz
+di( - usuwa wewnatrz (
+
+
 ---------
 vimtutor
 ---------

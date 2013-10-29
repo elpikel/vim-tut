@@ -35,8 +35,6 @@ Jeżeli edytowaliśmy plik w tym miejscu dostaniemy wyjątek o niezapisanym plik
 
 :q!
 
-1. Modes
-  a. insert a
-  b. normal
-  c. visual
-  d. command
+---------
+vimtutor
+---------

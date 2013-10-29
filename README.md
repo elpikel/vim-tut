@@ -17,6 +17,23 @@ Po co mi vim?
 
 Jest bardzo wydajny nie ze względu na szybkość działania ale ze względu na interfejs który oferuje. Vim zapewnia ogromny wachlarz przydatnych narzędzi do edycji tekstu o czym większośc współczenych ide zapomniało. Czym lepiej nauczysz się tych narzędzi tym szybciej będziesz w stanie wykonać swoje zadanie - czym szybciej uda ci sie wykonać zadanie tym więcej wolego czasu będziesz miał? 
 
+Szybki start
+
+Unix:
+vim [plik_do_edycji]
+Windows:
+prawy przycisk myszy i Edit with vim
+
+Szybka ucieczka:
+
+Dla większości ludzi nie wydaje się to przyjazne środowisko. Aby wyjść musimy przenieść się do trybu poleceń:
+
+Esc
+:q
+
+Jeżeli edytowaliśmy plik w tym miejscu dostaniemy wyjątek o niezapisanym pliku. Aby wymusić wyjście:
+
+:q!
 
 1. Modes
   a. insert a

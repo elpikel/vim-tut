@@ -59,6 +59,7 @@ S - usuwa linie i przechodzi w tryb edycji
 x - usuwa znak pod kursorem
 X - usuwa znak przed kursorem
 dd - usuwa linie
+D - usuwa od aktulanego miejsca
 y - kopiuje
 p - wkleje
 u - cofa ostatnią zmiane
@@ -68,6 +69,13 @@ Tryb wizualny:
 v - tryb wizualny znakowy
 V - tryb wizualny liniowy
 ctrl-v - tryb wizualny blokowy
+
+Szukanie:
+/[fraza] - przenosi do szukanej frazy - n N - przód tył
+
+Zamiana:
+:%s/[z]/[na]/g - zamienia [z] na [na] we wszystkich liniach
+:s/[z]/[na]/g - zamienia [z] na [na] w aktualnej lini 
 
 Przykłady:
 daw - usuwa wyraz

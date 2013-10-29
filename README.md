@@ -13,6 +13,8 @@ Vim is often called a "programmer's editor," and so useful for programming that 
 
 Działa na większości systemów operacyjnych: Windows, OSX, Unix.
 
+Został stworzony w 1976 roku.
+
 Po co mi vim?
 
 Jest bardzo wydajny nie ze względu na szybkość działania ale ze względu na interfejs który oferuje. Vim zapewnia ogromny wachlarz przydatnych narzędzi do edycji tekstu o czym większośc współczenych ide zapomniało. Czym lepiej nauczysz się tych narzędzi tym szybciej będziesz w stanie wykonać swoje zadanie - czym szybciej uda ci sie wykonać zadanie tym więcej wolego czasu będziesz miał? 
@@ -35,10 +37,6 @@ Jeżeli edytowaliśmy plik w tym miejscu dostaniemy wyjątek o niezapisanym plik
 
 :q!
 
----------
-vimtutor
----------
-
 Podstawy poruszania się po tekście:
 
 h,j,k,l - zamiast strzałek
@@ -47,4 +45,29 @@ b/w - poprzednie następne słowo
 $ - koniec lini
 0 - początek lini
 ^ - pierwsza litera w lini
+L/H/M - dół/góra/środek ekranu
+G/gg - koniec/początek pliku
+
+Podstawy edycji:
+
+i - tryb edycji [Esc aby wyjść]
+I - tryb edycji od początku lini
+a - tryb edycji za kursorem
+A - tryb edycji na koniec lini
+s - usuwa znak i przechodzi do trybu edycji
+S - usuwa linie i przechodzi w tryb edycji
+x - usuwa znak pod kursorem
+X - usuwa znak przed kursorem
+dd - usuwa linie
+y - kopiuje
+p - wkleje
+u - cofa ostatnią zmiane
+ctrl-r - przywraca ostatnią zmianę
+
+
+
+---------
+vimtutor
+---------
+
 

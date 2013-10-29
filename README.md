@@ -54,6 +54,8 @@ i - tryb edycji [Esc aby wyjść]
 I - tryb edycji od początku lini
 a - tryb edycji za kursorem
 A - tryb edycji na koniec lini
+o - tryb edycji poniżej
+O - tryb edycji powyżej
 s - usuwa znak i przechodzi do trybu edycji
 S - usuwa linie i przechodzi w tryb edycji
 x - usuwa znak pod kursorem
@@ -74,6 +76,8 @@ Szukanie:
 /[fraza] - przenosi do szukanej frazy - n N - przód tył
 
 Zamiana:
+r - zamienia znak
+R - zamienia znaki
 :%s/[z]/[na]/g - zamienia [z] na [na] we wszystkich liniach
 :s/[z]/[na]/g - zamienia [z] na [na] w aktualnej lini 
 

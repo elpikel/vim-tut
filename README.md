@@ -93,6 +93,14 @@ dt, - usuwa do znaku ,
 df, - usuwa ze znakiem ,
 
 
+Kolory:
+colorscheme [schemat]
+
+Pluginy:
+powershell
+inne
+.vimrc
+
 ---------
 vimtutor
 ---------

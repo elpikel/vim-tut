@@ -77,6 +77,11 @@ Zamiana:
 :%s/[z]/[na]/g - zamienia [z] na [na] we wszystkich liniach
 :s/[z]/[na]/g - zamienia [z] na [na] w aktualnej lini 
 
+Polecenia:
+:w - zapis
+:e - nowy plik
+:e . - przeglądanie katalogu 
+
 Przykłady:
 daw - usuwa wyraz
 di( - usuwa wewnatrz (

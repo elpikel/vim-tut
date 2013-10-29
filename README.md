@@ -64,7 +64,10 @@ p - wkleje
 u - cofa ostatnią zmiane
 ctrl-r - przywraca ostatnią zmianę
 
-
+Tryb wizualny:
+v - tryb wizualny znakowy
+V - tryb wizualny liniowy
+ctrl-v - tryb wizualny blokowy
 
 ---------
 vimtutor

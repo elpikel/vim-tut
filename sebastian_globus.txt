@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 Seba nie ruszaj tego pliku...!
 aczemunie
-=======
-Seba nie ruszaj tego pliku...
-dasdasdasdasi!
->>>>>>> 4e660c961d8c5aedeb18bfd1a8da7cce6f75e8d0
+
+
+
+
